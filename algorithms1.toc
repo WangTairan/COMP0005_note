@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Fundamentals}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Steps to Developing Algorithms}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Analysis of Algorithms}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Abstract Data Types (ADTs)}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Sort Algorithms}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Elementary Sorts}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Merge Sort}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Quick Sort}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Heap Sort}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Summary}{7}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Search Algorithms}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Symbol Table}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Binary Search Tree}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}BST Additional Operations}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Balanced Search Tree}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Hash Tables}{12}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Summary}{14}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Graph Algorithms}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Undirected Graphs}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Directed Graphs}{18}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Minimum Spanning Tree}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Shortest Path}{24}{subsection.4.4}%
+\contentsline {section}{\numberline {5}String Algorithms}{28}{section.5}%
+\contentsline {subsection}{\numberline {5.1}String Sorting Algorithms}{29}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}String Search}{30}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Substring Search}{33}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Compression}{35}{subsection.5.4}%
